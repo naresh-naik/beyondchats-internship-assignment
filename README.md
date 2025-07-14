@@ -36,3 +36,8 @@ To generate a persona, run the script from your terminal with the user's Reddit 
 
 ```bash
 python persona_generator.py <URL_OF_REDDIT_PROFILE>
+
+
+
+
+
