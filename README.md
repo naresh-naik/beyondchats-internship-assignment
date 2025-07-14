@@ -34,9 +34,19 @@ This project is a Python script that generates a user persona based on a Reddit 
 
 To generate a persona, run the script from your terminal with the user's Reddit profile URL as an argument:
 
-```bash
-python persona_generator.py <URL_OF_REDDIT_PROFILE>
+`python persona_generator.py <URL_OF_REDDIT_PROFILE>`
 
+## Sample Output
+To demonstrate the script's capability, here is a snippet of the generated persona for the user `kojied`. The full output files for the sample users are included in the repository.
+
+`======================================================================
+ USER PERSONA: kojied
+ 1. AT A GLANCE (EXECUTIVE SUMMARY)
+ Category	Deduction
+ Identity	A knowledgeable and active custom keyboard enthusiast.
+ Primary Role	Hobbyist, Community Contributor, Tech Enthusiast
+ Key Trait	Helpful and detail-oriented
+ Location (Est.)	Not specified `
 
 
 
