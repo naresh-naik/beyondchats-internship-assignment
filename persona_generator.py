@@ -101,7 +101,7 @@ def generate_user_persona(user_data_string: str, username: str) -> Optional[str]
 
     print("\n🧠 Contacting Google Gemini to generate professional dossier...")
     try:
-        genai.configure(api_key='AIzaSyDE8ZjCMijZLLaCls72ZAjnB2bpKdkFcAE')
+        genai.configure(api_key='YOUR_API KEY HERE')
     except Exception as e:
         print(f"❌ Error: Failed to configure Gemini client. Details: {e}", file=sys.stderr)
         return None
