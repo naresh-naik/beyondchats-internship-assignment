@@ -1,0 +1,46 @@
+======================================================================
+                  USER PERSONA: kojied
+======================================================================
+
+### 1. AT A GLANCE (EXECUTIVE SUMMARY)
+
+| Category          | Deduction                                       |
+|-------------------|-------------------------------------------------|
+| **Identity**      | kojied                                          |
+| **Primary Role**  | iOS Developer (Specializing in visionOS / Spatial Computing) |
+| **Key Trait**     | Strategic Optimizer                             |
+| **Location (Est.)**| New York City, NY                               |
+
+
+### 2. DETAILED ANALYSIS
+
+#### A. Executive Summary
+Kojied is a New York City-based iOS developer of Japanese origin, specializing in the emerging field of visionOS and spatial computing (Source: https://www.reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/, https://www.reddit.com/r/OnePiece/comments/1kpavbs/ive_been_ripping_on_that_part_of_zoros_backstory/mswlma6/). A former H1B visa holder, he demonstrates a highly analytical and strategic mindset, consistently seeking to understand, optimize, and find efficiencies in complex systems—from video game economies and AI development to personal finance and self-improvement routines (Source: https://www.reddit.com/r/civ5/comments/1h7bmv3/flight_deity/m0jx8h5/, https://www.reddit.com/r/AskReddit/comments/1hnx8j0/h1b_holders_what_are_your_thoughts_on_the/m4560kx/). His communication style is inquisitive and helpful, often providing detailed, structured advice to others. His core motivations appear to be mastering new technologies, analyzing market and social trends, and finding optimal strategies for success in his varied interests.
+
+---
+
+#### B. Key Characteristics & Behavioral Patterns
+*   **Analytical & Strategic:** Consistently breaks down complex systems to find optimal paths to victory or efficiency, as demonstrated by a detailed, 10-step guide for winning the game Civilization V on its highest difficulty (Source: https://www.reddit.com/r/civ5/comments/1h7bmv3/flight_deity/m0jx8h5/). This extends to analyzing trade routes in Manor Lords for maximum efficiency (Source: https://www.reddit.com/r/ManorLords/comments/1lq4lst/this_is_acceptable/n1089i9/).
+*   **Tech Early Adopter:** Actively engages with and develops for cutting-edge technology, specifically Apple's Vision Pro, and seeks to resolve professional workflow limitations on the new platform (Source: https://www.reddit.com/r/VisionPro/comments/1aiwqa2/can_you_actually_work_in_avp/). He also explores and questions the technical aspects of generative AI (Source: https://www.reddit.com/r/ChatGPT/comments/1lvtwj3/i_used_ai_to_create_this_short_film_on_human/n2b07h0/).
+*   **Pragmatic & Data-Driven:** Assesses trends based on observable data rather than hype, concluding the NFT market is "dead" by analyzing low community engagement on Reddit and a shift in interest to other assets (Source: https://www.reddit.com/r/NFT/comments/1l2gcmt/nfts_in_2025_where_are_we_headed/mvt4t5c/).
+*   **Helpful & Advice-Oriented:** Provides comprehensive, structured, and actionable advice to others on topics ranging from self-improvement and fashion to gaming strategies, including specific product recommendations with links (Source: https://www.reddit.com/r/GenZ/comments/1gc4gbc/i_want_to_be_more_conventionally_attractive_you/ltr38yh/).
+*   **Self-Reflective:** Displays a capacity for introspection, analyzing his initial negative reaction to an influx of young interns in his local bar and contextualizing his own status as a "transient being" in the city (Source: https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/).
+
+---
+
+#### C. Identified Interests & Hobbies
+*   **Strategy Gaming:** Demonstrates deep expertise in strategy games like Civilization V, Manor Lords, and Project Zomboid, frequently discussing optimal strategies and game mechanics (Source: https://www.reddit.com/r/civ5/comments/1h7bmv3/flight_deity/m0jx8h5/, https://www.reddit.com/r/AskReddit/comments/1iz0bzi/which_game_proves_that_graphics_arent_everything/mezpeha/).
+*   **VR/AR & AI Technology:** Owns and develops for the Apple Vision Pro, explores generative AI for video and text, and previously analyzed the NFT market (Source: https://www.reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/, https://www.reddit.com/r/ChatGPT/comments/1lvtwj3/i_used_ai_to_create_this_short_film_on_human/n2b07h0/).
+*   **NYC Food & Culture:** Resides in NYC and has a curated list of preferred restaurants, cafes, and bars across the city, indicating an active interest in local foodie culture (Source: https://www.reddit.com/r/FoodNYC/comments/1lc0fio/if_you_had_to_spend_one_full_day_eating_your_way/mxxhvpf/).
+*   **Japanese Language & Anime:** Identifies as Japanese, provides translations of Japanese text, and engages in deep, theoretical discussions about the manga/anime series One Piece (Source: https://www.reddit.com/r/OnePiece/comments/1kpavbs/ive_been_ripping_on_that_part_of_zoros_backstory/mswlma6/).
+*   **Finance & Investing:** Previously engaged in options trading and invested significantly in NFTs, learning an "expensive life lesson" from the market's collapse (Source: https://www.reddit.com/r/options/comments/fiflte/seeking_advice_ive_made_some_gains_buying_put/, https://www.reddit.com/r/NFT/comments/1fg5e27/marvel_and_disney_nfts_promising_true_ownership/ln001f2/).
+*   **NBA Basketball:** Follows the NBA and is a fan of the Golden State Warriors, though has grown cynical about the team's performance and the league's commercialization (Source: https://www.reddit.com/r/warriors/comments/1hnrjru/future_of_the_league/m454lgx/).
+
+---
+
+#### D. Professional Profile
+*   **Deduced Profession/Field:** iOS Developer specializing in visionOS (Spatial Computing). He has professional connections and previously worked in environmental consulting (Source: https://www.reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/, https://www.reddit.com/r/ClimateOffensive/comments/15xgmea/tracking_our_individual_impacts_on_the_world/).
+*   **Supporting Evidence:** Explicitly states, "Hey I’m an iOS developer building in visionOS" (Source: https://www.reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/).
+*   **Supporting Evidence:** Discusses technical development workflow challenges, mentioning the absence of Github, Visual Studio Code, and Xcode on the AVP, as well as M1 MBP latency issues (Source: https://www.reddit.com/r/VisionPro/comments/1aiwqa2/can_you_actually_work_in_avp/).
+*   **Supporting Evidence:** Claims to "know a few key decision makers both in the Pokemon Company as well as Niantic" in the context of developing a Pokemon Go application for Vision Pro (Source: https://www.reddit.com/r/VisionPro/comments/1ajbkqm/would_you_guys_like_to_see_pokemon_go_in_avp/).
+*   **Supporting Evidence:** Mentions his wife receives "GCP Credits" from her company, suggesting a household environment connected to the tech industry (Google Cloud Platform) (Source: https://www.reddit.com/r/warriors/comments/1h9zxoq/wife_got_courtside_box_seats_from_her_company_and/m14y4pr/).
